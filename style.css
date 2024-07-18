@@ -1,0 +1,15 @@
+.box1,
+.box2,.box3,.box4,.box5{
+    background: darkgrey;
+    height: 105px;
+    box-shadow: 2px 2px 7px 2px black;
+    border-radius: 12px;
+    text-align: center;
+    padding: 75px 26px 0px 31px;
+}
+
+.fa-brands fa-facebook{
+    BOX-SHADOW: 1PX 0PX 4PX 2PX BLUE;
+    TEXT-ALIGN: center;
+    BORDER-RADIUS: 11PX
+}
